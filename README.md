@@ -1,1 +1,1 @@
-# auth.palameanto.com
+# auth.parlameanto.ao
